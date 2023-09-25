@@ -20,7 +20,7 @@ The Simple Calculator is a straightforward web application designed to perform b
 ## Installation
 
 1. Clone the repository:
-https://github.com/ElminSendic/simple-calculator.git
+https://github.com/ElminSendic/basic-calculator.git
 
 2. Open the `index.html` file in your web browser.
 
